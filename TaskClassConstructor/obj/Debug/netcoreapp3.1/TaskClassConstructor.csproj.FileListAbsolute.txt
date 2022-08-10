@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\bin\Debug\netcoreapp3.1\TaskClassConstructor.exe
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\bin\Debug\netcoreapp3.1\TaskClassConstructor.deps.json
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\bin\Debug\netcoreapp3.1\TaskClassConstructor.runtimeconfig.json
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\bin\Debug\netcoreapp3.1\TaskClassConstructor.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\bin\Debug\netcoreapp3.1\TaskClassConstructor.dll
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\bin\Debug\netcoreapp3.1\TaskClassConstructor.pdb
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\obj\Debug\netcoreapp3.1\TaskClassConstructor.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\obj\Debug\netcoreapp3.1\TaskClassConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\obj\Debug\netcoreapp3.1\TaskClassConstructor.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\obj\Debug\netcoreapp3.1\TaskClassConstructor.AssemblyInfo.cs
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\obj\Debug\netcoreapp3.1\TaskClassConstructor.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\obj\Debug\netcoreapp3.1\TaskClassConstructor.dll
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\obj\Debug\netcoreapp3.1\TaskClassConstructor.pdb
+C:\Users\HP\Desktop\TaskClassConstructor\TaskClassConstructor\obj\Debug\netcoreapp3.1\TaskClassConstructor.genruntimeconfig.cache
